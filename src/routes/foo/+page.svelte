@@ -3,7 +3,7 @@
 
 <main>
   <h1>/foo</h1>
-  <a href="/">&lt- Back home</a>
+  <a href="/">&lt;- Back home</a>
 </main>
 
 <style>
